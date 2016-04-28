@@ -4,7 +4,7 @@ College of Engineering
 Electrical and Computer Engineering Department
 ECE 2552: Software Hardware Integration
 FileName : LinkedBinaryTree.h
-Code Author :  Ayokunle Ade-Aina [aadeaina2014@my.fit.edu]
+Code Author :  Ayokunle Ade-Aina [aadeaina2014@my.fit.edu] (c)2016
 ********************************************************************/
 #ifndef LINKEDBINARYTREE_H_
 #define LINKEDBINARYTREE_H_
