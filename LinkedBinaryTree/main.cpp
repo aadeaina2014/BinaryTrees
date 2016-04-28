@@ -1,3 +1,11 @@
+/********************************************************************
+Florida Institute of Technology
+College of Engineering
+Electrical and Computer Engineering Department
+ECE 2552: Software Hardware Integration
+FileName : main.cpp
+Code Author :  Ayokunle Ade-Aina [aadeaina2014@my.fit.edu] (c)2016
+********************************************************************/
 #include"LinkedBinaryTree.h"
 //#include "euler.h"
 //#include "Printexpressiontour.h"
