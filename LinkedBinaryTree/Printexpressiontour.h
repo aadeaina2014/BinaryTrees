@@ -1,11 +1,11 @@
 /********************************************************************
-        Florida Institute of Technology
-        College of Engineering
-        Electrical and Computer Engineering Department
-        ECE 2552: Software Hardware Integration
-		FileName : Printexpressiontour.h
+Florida Institute of Technology
+College of Engineering
+Electrical and Computer Engineering Department
+ECE 2552: Software Hardware Integration
+FileName : PrintExpressionTour.h
+Code Author :  Ayokunle Ade-Aina [aadeaina2014@my.fit.edu] (c)2016
 ********************************************************************/
-
 
 # ifndef PRINTEXPRESSIONTOUR_H_
 # define PRINTEXPRESSIONTOUR_H_
