@@ -1,9 +1,11 @@
 /********************************************************************
+/********************************************************************
 Florida Institute of Technology
 College of Engineering
 Electrical and Computer Engineering Department
 ECE 2552: Software Hardware Integration
 FileName : euler.h
+Code Author :  Ayokunle Ade-Aina [aadeaina2014@my.fit.edu] (c)2016
 ********************************************************************/
 # ifndef EULER_H_
 # define EULER_H_
